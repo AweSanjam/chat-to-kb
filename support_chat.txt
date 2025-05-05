@@ -1,0 +1,8 @@
+[User]: I'm getting a 403 error when trying to log in.
+[Support]: That usually happens if your IP is blocked. Try restarting your router.
+
+[User]: How can I reset my password?
+[Support]: Go to the login screen and click "Forgot Password". Follow the instructions emailed to you.
+
+[User]: My upload speed is super slow.
+[Support]: Check if background apps are using bandwidth. Also try using Ethernet instead of Wi-Fi.
