@@ -1,4 +1,4 @@
-# 💬 GPT-Powered Knowledge Base Discord Bot
+# 💬 GPT-Powered Knowledge Base Discord?slack Bot
 
 This project is a smart, self-improving **Discord support bot** that uses OpenAI’s GPT models to answer user questions, tag issues, and build a living knowledge base over time. It is built for **technical support teams**, **communities**, and anyone who handles repeat questions.
 
